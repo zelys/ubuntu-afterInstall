@@ -90,7 +90,7 @@ sudo apt-get install preload
 
 - Instalar el navegador Chromium: [download-chromium.appspot.com](https://download-chromium.appspot.com/)
 
-Puedes consultar las mejores apps para Ubuntu Linux en: ![10 programas imprescindibles para Linux (Ubuntu y demás distribuciones)](https://algoentremanos.com/10-programas-imprescindibles-para-linux/).
+Puedes consultar las mejores apps para Ubuntu Linux en: [10 programas imprescindibles para Linux (Ubuntu y demás distribuciones)](https://algoentremanos.com/10-programas-imprescindibles-para-linux/).
 
 Si quieres acceder a más apps, puedes instalar Flatpak, el sistema de apps de Fedora, y tener todas sus aplicaciones directamente en el centro de software de Ubuntu:
 
@@ -106,4 +106,4 @@ flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flat
 
 [Timeshift](https://teejeetech.com/timeshift/) (similar al sistema de Windows o el Time Machine de Mac).
 
-Nota: Puedes hacer muchas más cosas, algunas de las cuales las indican en [Things To Do After Installing Ubuntu](https://fosspost.org/things-to-do-after-installing-ubuntu/#3_Install_GNOME_Tweak_Tool).
+Nota: Puedes hacer muchas más cosas, algunas de las cuales las indican en: [Things To Do After Installing Ubuntu](https://fosspost.org/things-to-do-after-installing-ubuntu/#3_Install_GNOME_Tweak_Tool).
